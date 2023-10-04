@@ -1,0 +1,5 @@
+100,Rabin Shedhai,Kavre,rabin@gmail.com,9841237790,Managing,BIT,Male,rabin,rabin100
+101,Bidhan Singh,Dhangadi,bidhan@gmail.com,9841521361,Managing,BIT,Male,bidhan,bidhan101
+102,Amit Thakur,Tahachal,amit@gmail.com,9841206590,Delivery,BIT,Male,amit,amit102
+103,Engina Khadka,Thamel,engina@gmail.com,9806345632,Delivery,+2,Female,engina,engina103
+104,Eugene Maharjan,Thamel,eugene@gmail.com,9834145632,Delivery,+2,Female,eugene,eugene104

@@ -1,0 +1,5 @@
+3,2021/6/5,Sami,Kalanki,9803012754,Jodhpur,Mirjazpur,34,5524.45,Document,Pending
+4,2021/9/6,Diya,Tahachal,9810456770,Bafal,Lumbini,200,4065,Parcel,Pending
+5,2021/8/6,Jiyaan,Tajpur,9812135452,Bagbazaar,Lumbhu,23,3065,Parcel,Delivered
+6,2021/6/5,Simran,Singh,982323643,Maitidevi,Ratnapark,1.9,385,Document,Pending
+7,2021/9/6,Dikshya,Kuwar,9810456550,Bafal,Janakpur,200,4065,Parcel,Delivered

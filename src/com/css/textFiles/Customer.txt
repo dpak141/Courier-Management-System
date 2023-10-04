@@ -1,0 +1,5 @@
+101,Bandu Singh,Dhangadi,bandu@gmail.com,9841561361,Managing,BIT,Male,bandu,bandu101
+102,Amit Thakur,Tahachal,amit@gmail.com,9841206590,Delivery,BIT,Male,amit,amit102
+103,Engina Khadka,Thamel,engina@gmail.com,9806145632,Delivery,+2,Female,engina,engina103
+104,Gulshan Karki,Dharan,gulshan@gmail.com,9841431361,Managing,BIT,Male,gulshan,gulshan104
+105,Hari Kulman,Dhankuta,hari@gmail.com,9823521361,Managing,BIT,Male,hari,harui105

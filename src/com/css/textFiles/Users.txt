@@ -1,0 +1,5 @@
+10,Nikita Ghimire,Bhaktapur,nikita@gmail.com,9803563626,Female,nikita,nikita10
+11,Jenisha Singh,Themel,jenisha@gamil.com,9841562636,Female,jenisha,jenisha11
+12,Nabin Saud,Maitidevi,nabin@gmail.com,9861243589,Male,nabin,nabin12
+13,Sagar Dahal,Dhading,sagar@gmail.com,9852675421,Male,sagar,sagar14
+14,Sami Dhakal,Kalanki,sami@gmail.com,9861237853,Female,sami,sami15

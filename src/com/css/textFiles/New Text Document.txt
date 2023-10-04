@@ -1,0 +1,3 @@
+3,2021/6/5,Sami,Kalanki,9841236578,Maitidevi,Ratnapark,1.9,385,Document,Pending
+4,2021/9/6,Diya,Tahachal,9810456770,Bafal,Lumbini,200,4065,Parcel,Pending
+5,2021/8/6,Jiyaan,Tajpur,9812135452,Bagbazaar,Lumbhu,23,3065,Parcel,Delivered

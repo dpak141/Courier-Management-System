@@ -1,0 +1,8 @@
+@startuml
+class com.css.bll.Courier
+class com.css.bll.Customer
+class com.css.bll.Employee
+class com.css.bll.Feedback
+class com.css.bll.Report
+class com.css.bll.User
+@enduml

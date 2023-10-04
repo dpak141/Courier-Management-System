@@ -1,0 +1,5 @@
+101,Bandu Singh,Dhangadi,bandu@gmail.com,9841561361,100,Rabin Shedhai,9841237790,3,5524.45,Pending,
+102,Amit Thakur,Tahachal,amit@gmail.com,9841206590,101,Bidhan Singh,9841521361,4,4065,Pending,
+103,Engina Khadka,Thamel,engina@gmail.com,9806145632,102,Amit Thakur,9841206590,5,3065,Delivered,
+104,Gulshan Karki,Dharan,gulshan@gmail.com,9841431361,103,Engina Khadka,9806345632,6,385,Pending,
+105,Hari Kulman,Dhankuta,hari@gmail.com,9823521361,104,Eugene Maharjan,9834145632,7,4065,Delivered,
